@@ -1,0 +1,5 @@
+# Google credentials and configuration
+google_project_id: bookshelf-ds-appl 
+
+# options are "mysql", "postgres", "mongodb", or "datastore"
+bookshelf_backend: datastore
